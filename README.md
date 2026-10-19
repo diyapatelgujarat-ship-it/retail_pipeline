@@ -13,10 +13,9 @@ Structured operational transaction logs containing transaction IDs, branch IDs, 
 The project relies exclusively on Python's robust standard library with clean modular separation (`schema`, `validator`, `transformer`, `reporter`), an executable entry point (`main.py`), and automated unit tests.
 
 ## 5. Who did what parts?
-- **Student A**: Entity modeling (`schema.py`) & Defensive Validation (`validator.py`).
-- **Student B**: Functional transformations (`transformer.py`) & Metric reporting (`reporter.py`).
-- **Team**: Integration, CLI orchestrations (`main.py`), and unit test suite (`tests/test_pipeline.py`).
+Project Contributor: Diya Patel
 
+Project Role: Sole Developer / Individual Project
 ---
 ### Running the Project
 ```bash
